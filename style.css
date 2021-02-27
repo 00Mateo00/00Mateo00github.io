@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: peachpuff;
+
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+#imagen{
+    width: 20vw;
+    margin-bottom: 50px;
+}
+
+#button-real{
+    background-image: url("./imagenes/bloosom.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    outline: none;
+    border: none;
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    margin-top: 25px;
+}
