@@ -15,7 +15,7 @@ var imagen = document.getElementById("imagen")
 boton.addEventListener("click", botonOprimido);
 
 function botonOprimido(){
-    imagen.src = "./imagenes/leo.out-exif.jpg.jpg"
+    imagen.src = "./imagenes/leo.out-exif.jpg"
 }
 
 function leo(){
