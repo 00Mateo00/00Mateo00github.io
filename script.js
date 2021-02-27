@@ -3,6 +3,7 @@ var escuchar_teclado = document.addEventListener("keydown",reload);
 
 function reload(x){
     if (x.keyCode==82){
+        console.log("dmnt");
         leo();
     }
     
