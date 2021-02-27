@@ -19,5 +19,5 @@ function botonOprimido(){
 }
 
 function leo(){
-    imagen.src="./imagenes/leo-in.jpg.jpg"
+    imagen.src="./imagenes/leo-in.jpg"
 }
